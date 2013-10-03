@@ -1,0 +1,1483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fo",
+				"form_open	CI - Form Open"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"con",
+				"controller	CI - Base Controller"
+			],
+			[
+				"CI_Con",
+				"CI_Controller  (class)"
+			],
+			[
+				"style",
+				"styleName"
+			],
+			[
+				"raise",
+				"raiseWarning  (function)"
+			],
+			[
+				"getU",
+				"getUser  (function)"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"MX",
+				"MX_Controller  (class)"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"me",
+				"mensagemsucesso	mensagemsucesso"
+			],
+			[
+				"share",
+				"shared"
+			],
+			[
+				"mode",
+				"modeloupdate	modeloupdate"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"utf8_",
+				"utf8_decode  (function)"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"margin",
+				"margin-left:   (property)"
+			],
+			[
+				"ur",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"tem",
+				"temp	template"
+			],
+			[
+				"view",
+				"viewEditConteudo"
+			],
+			[
+				"o",
+				"objetivo"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"model",
+				"modeloselectid	sqlcigetid"
+			],
+			[
+				"lista",
+				"lista"
+			],
+			[
+				"modelo",
+				"modeloinsert	sqlcinsert"
+			],
+			[
+				"id",
+				"idArea"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"te",
+				"temp	template"
+			],
+			[
+				"cont",
+				"cont_id"
+			],
+			[
+				"db",
+				"db_order	CI - Active Record DB Order By"
+			],
+			[
+				"form",
+				"form_open	CI - Form Open"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"sessi",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"sub",
+				"substr  (function)"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"as",
+				"asinh"
+			],
+			[
+				"tab",
+				"tabela"
+			],
+			[
+				"get",
+				"getIdCurso  (function)"
+			],
+			[
+				"set",
+				"setExercicio  (function)"
+			],
+			[
+				"select",
+				"selectCurso"
+			],
+			[
+				"setId",
+				"setIdArea"
+			],
+			[
+				"getId",
+				"getIdArea  (function)"
+			],
+			[
+				"setI",
+				"setIdArea"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"menu",
+				"menu-topo"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"re",
+				"render  (function)"
+			],
+			[
+				"fget",
+				"fgets"
+			],
+			[
+				"array",
+				"arrayIterator"
+			],
+			[
+				"Array",
+				"ArrayIterator"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"load",
+				"load_view	CI - Load View"
+			],
+			[
+				"edit",
+				"editSenha"
+			],
+			[
+				"edi",
+				"editEmail"
+			],
+			[
+				"editNome",
+				"editNome"
+			],
+			[
+				"valor",
+				"valorCampo"
+			],
+			[
+				"pe",
+				"perfil"
+			],
+			[
+				"inst_",
+				"inst_email"
+			],
+			[
+				"tbl_",
+				"tbl_instrutor"
+			],
+			[
+				"campo",
+				"campoEmBranco"
+			],
+			[
+				"com",
+				"complete	completeci"
+			],
+			[
+				"comp",
+				"compform	compform"
+			],
+			[
+				"list",
+				"listArea"
+			],
+			[
+				"per",
+				"perfilmodel"
+			],
+			[
+				"loa",
+				"load_model	CI - Load Model"
+			],
+			[
+				"date_ti",
+				"date_default_timezone_set"
+			],
+			[
+				"apc",
+				"apc_add"
+			],
+			[
+				"ctr",
+				"ctrconteudo"
+			],
+			[
+				"conte",
+				"conteudomodel"
+			],
+			[
+				"ht",
+				"htmlentities  (function)"
+			],
+			[
+				"setO",
+				"setObjetivo  (function)"
+			],
+			[
+				"lo",
+				"load_model	CI - Load Model"
+			],
+			[
+				"jquery",
+				"jquery	<script> (jQuery google ajax api)"
+			],
+			[
+				"lis",
+				"listBanner"
+			],
+			[
+				"temp",
+				"tempset	Nov.22.2012_01.42.53.setTemp"
+			],
+			[
+				"se",
+				"set	Nov.22.2012_01.37.06.getSet"
+			],
+			[
+				"paren",
+				"class_parents"
+			],
+			[
+				"func",
+				"func	Nov.22.2012_01.31.23.getSet"
+			],
+			[
+				"fun",
+				"func	Nov.22.2012_01.17.56.getSet"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"catFoto",
+				"catFotos_id"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"foto",
+				"fotosmodel"
+			],
+			[
+				"a",
+				"absolute	(a)"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"bac",
+				"background-color:   (property)"
+			],
+			[
+				"sess",
+				"sessionLogin"
+			],
+			[
+				"n",
+				"nome"
+			],
+			[
+				"login",
+				"loginmodel"
+			],
+			[
+				"getNom",
+				"getNomeFot"
+			],
+			[
+				"setDescri",
+				"setDescricaoFot"
+			],
+			[
+				"getNome",
+				"getNomeFot  (function)"
+			],
+			[
+				"cat",
+				"catId"
+			],
+			[
+				"th",
+				"thumb"
+			],
+			[
+				"fotos",
+				"fotosmodel"
+			],
+			[
+				"des",
+				"descricaoFot  (variable)"
+			],
+			[
+				"setDe",
+				"setDescricaoFot"
+			],
+			[
+				"nome",
+				"nomeImg"
+			],
+			[
+				"setNome",
+				"setNomeFot"
+			],
+			[
+				"add",
+				"addviewfotos"
+			],
+			[
+				"desc",
+				"descricaoCat"
+			],
+			[
+				"txt",
+				"txtEmail"
+			],
+			[
+				"vali",
+				"valid_email"
+			],
+			[
+				"ge",
+				"getNome  (function)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"contact",
+				"contactmodel"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"substr",
+				"substr_replace  (function)"
+			],
+			[
+				"ci",
+				"ciphp	CodeIgniter Tag"
+			],
+			[
+				"upload",
+				"uploadcontrol"
+			],
+			[
+				"form_ope",
+				"form_open	CI - Form Open"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"url",
+				"urlUser"
+			],
+			[
+				"click",
+				".click	jQuery click handler"
+			],
+			[
+				"dele",
+				"deleteUser"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"his",
+				"Local History: Compare"
+			],
+			[
+				"histo",
+				"Local History: Compare"
+			],
+			[
+				"history",
+				"Local History: Compare"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: j",
+				"Snippet: jform"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"sta",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"stacke",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"l",
+				"Local History: Compare"
+			],
+			[
+				"lo",
+				"Local History: Compare"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery.ajax"
+			],
+			[
+				"jquer",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"htacc",
+				"Snippet: CodeIgniter .htaccess"
+			],
+			[
+				"h",
+				"Local History: Compare"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"loca",
+				"Local History: Replace"
+			],
+			[
+				"loc",
+				"Local History: Replace"
+			],
+			[
+				"set Syntax:php",
+				"Set Syntax: PHP"
+			],
+			[
+				"j",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"Snippet: temp",
+				"Snippet: Nov.22.2012_01.42.33.setTemp"
+			],
+			[
+				"Snippet: set",
+				"Snippet: getSet"
+			],
+			[
+				"Snippet: func",
+				"Snippet: function …"
+			],
+			[
+				"local",
+				"Local History: Compare"
+			],
+			[
+				"LOCAL",
+				"Local History: Replace"
+			],
+			[
+				"Local",
+				"Local History: Compare"
+			],
+			[
+				"compare",
+				"Local History: Compare"
+			],
+			[
+				"hi",
+				"Local History: Open"
+			],
+			[
+				"file:",
+				"File: New File Relative to Current View"
+			],
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"pacl",
+				"Package Control: Remove Package"
+			],
+			[
+				"sys",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"snippet: place",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"place",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax:ph",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/netcom/application/config/autoload.php",
+		"/var/www/netcom/assets/css/style_boot.css",
+		"/var/www/netcom/application/views/admin/index.php",
+		"/var/www/netcom/assets/css/style.css",
+		"/var/www/netcom/application/controllers/admin/login.php",
+		"/var/www/netcom/application/views/admin/templates/login.php",
+		"/var/www/netcom/application/views/admin/index.html",
+		"/var/www/netcom/application/views/index.php",
+		"/var/www/netcom/application/controllers/home.php",
+		"/var/www/netcom/application/views/templates/home.php",
+		"/var/www/netcom/application/views/contact-us.html",
+		"/var/www/netcom/application/views/templates/contact.php",
+		"/var/www/netcom/application/views/portofolio-1-columns.html",
+		"/var/www/netcom/application/views/templates/product_detail.php",
+		"/var/www/netcom/application/views/templates/list_product.php",
+		"/var/www/netcom/application/views/templates/about.php",
+		"/var/www/netcom/application/views/blog-classic.html",
+		"/var/www/netcom/.htaccess",
+		"/var/www/netcom/application/config/config.php",
+		"/var/www/netcom/application/config/routes.php",
+		"/var/www/netcom/application/controllers/frontpage.php",
+		"/var/www/netcom/application/.htaccess",
+		"/var/www/netcom/application/controllers/index.php",
+		"/var/www/testes/ci/.htaccess",
+		"/var/www/testes/ci/application/controllers/welcome.php",
+		"/var/www/testes/ci/application/.htaccess",
+		"/var/www/testes/ci/application/config/config.php",
+		"/var/www/netcom/netcom/helpers/MY_url_helper.php",
+		"/var/www/netcom/netcom/config/config.php",
+		"/var/www/testes/netcom/.htaccess",
+		"/var/www/testes/netcom/netcom/config/rest.php",
+		"/var/www/testes/netcom/netcom/views/index.php",
+		"/var/www/testes/netcom/netcom/config/autoload.php",
+		"/var/www/testes/netcom/netcom/controllers/index.php",
+		"/var/www/testes/netcom/netcom/config/routes.php",
+		"/var/www/testes/netcom/netcom/views/templates/home.php",
+		"/var/www/testes/netcom/netcom/views/templates/contato.php",
+		"/var/www/testes/netcom/netcom/views/contact-us.html",
+		"/var/www/testes/netcom/netcom/config/config.php",
+		"/var/www/testes/netcom/netcom/.htaccess",
+		"/var/www/testes/netcom/CodeIgniter-Bootstrap-master.zip",
+		"/var/www/testes/netcom/netcom/views/templates/form.php",
+		"/var/www/testes/netcom/netcom/views/include/header.php",
+		"/var/www/testes/netcom/netcom/views/include/footer.php",
+		"/var/www/testes/netcom/index.php",
+		"/var/www/testes/netcom/netcom/views/site/blog-details.html",
+		"/var/www/testes/index.php",
+		"/var/www/testes/livro_php/TellAll.php",
+		"/var/www/joomla/administrator/components/com_books/controllers/book.php",
+		"/var/www/joomla/administrator/components/com_books/controllers/books.php",
+		"/var/www/joomla/administrator/components/com_books/tables/book.php",
+		"/var/www/joomla/administrator/components/com_books/tables/index.html",
+		"/var/www/joomla/administrator/components/com_books/models/book.php",
+		"/var/www/joomla/administrator/components/com_books/views/books/tmpl/default.php",
+		"/var/www/joomla/administrator/components/com_books/models/books.php",
+		"/var/www/joomla/administrator/components/com_books/language/pt-BR/pt-BR.com_books.ini",
+		"/var/www/joomla/administrator/components/com_books/views/books/view.html.php",
+		"/var/www/joomla/administrator/components/com_books/views/book/tmpl/edit.php",
+		"/var/www/joomla/administrator/components/com_books/helpers/books.php",
+		"/var/www/joomla/administrator/components/com_books/controller.php",
+		"/var/www/joomla/administrator/components/com_books/books.php",
+		"/var/www/joomla/administrator/components/com_books/config.xml",
+		"/var/www/joomla/components/com_books/books.xml",
+		"/var/www/joomla/administrator/components/com_books/access.xml",
+		"/var/www/joomla/administrator/components/com_books/router.php",
+		"/var/www/joomla/administrator/components/com_books/index.html",
+		"/var/www/joomla/administrator/components/com_books/controllers/index.html",
+		"/var/www/joomla/administrator/components/com_books/helpers/index.html",
+		"/var/www/joomla/administrator/components/com_books/models/index.html",
+		"/var/www/joomla/administrator/components/com_books/views/index.html",
+		"/var/www/joomla/administrator/components/com_books/books.xml",
+		"/var/www/joomla/components/com_books/books.php",
+		"/var/www/testes/joomla/components/com_books/books.php",
+		"/var/www/testes/joomla/robots.txt",
+		"/home/elton/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/elton/.config/sublime-text-2/Packages/User/AdvancedNewFile.sublime-settings",
+		"/var/www/testes/bromo/index.html",
+		"/var/www/testes/bromo/index3.html",
+		"/var/www/testes/bromo/index2.html",
+		"/var/www/testes/bromo/index4.html",
+		"/var/www/testes/bromo/portofolio-1-columns.html",
+		"/var/www/testes/bromo/about-us.html",
+		"/var/www/testes/bromo/index-2.html",
+		"/var/www/testes/bromo/js/styleswitch.js",
+		"/var/www/testes/bromo/css/blueFull.css",
+		"/var/www/testes/bromo/css/style.css",
+		"/var/www/testes/bromo/css/blueBoxed.css",
+		"/var/www/testes/bromo/portofolio-2-columns.html",
+		"/var/www/testes/bromo/portofolio-3-columns.html",
+		"/var/www/testes/bromo/css/bromoPanel.css",
+		"/var/www/testes/bromo/css/brownFull.css",
+		"/var/www/joomla/components/com_books/helpers/books.php",
+		"/var/www/joomla/components/com_books/controller.php",
+		"/var/www/joomla/administrator/components/com_books/language/pt-BR/pt-BR.com_books.sys.ini",
+		"/var/www/joomla/administrator/components/com_books/acess.xml",
+		"/var/www/joomla/administrator/components/com_admin/admin.xml",
+		"/var/www/joomla/robots.txt",
+		"/var/www/joomla/components/com_books/index.html",
+		"/var/www/joomla/components/com_books/router.php",
+		"/var/www/wp/index.php",
+		"/var/www/wp/wp-config.php",
+		"/var/www/cebrac/application/sis-escola/config/routes.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/views/template/clientesviewedit.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/views/template/clientesviewadd.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/views/template/clientesview.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/views/index.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/models/privatemodel.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/views/template/home.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/controllers/privatecontroller.php",
+		"/home/elton/.config/sublime-text-2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/views/template/conteudoviewadd.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/views/template/viewclientes.php",
+		"/var/www/cebrac/application/sis-escola/modules/private/views/index.html",
+		"/var/www/cebrac/application/sis-escola/modules/private/models/index.html",
+		"/var/www/cebrac/application/sis-escola/modules/private/controllers/index.html",
+		"/var/www/cebrac/application/sis-escola/modules/coordenacao/controllers/coordenacao.php",
+		"/var/www/cebrac/application/sis-escola/modules/coordenacao/models/coordenacaomodel.php",
+		"/var/www/cebrac/application/sis-escola/modules/coordenacao/views/index.php",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/views/index.php",
+		"/var/www/cebrac/application/sis-escola/modules/geradorplano/views/gerarPlano.php",
+		"/var/www/cebrac/application/sis-escola/modules/geradorplano/controllers/geradorplano.php",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/controllers/conteudocontroller.php",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/models/conteudomodel.php",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/views/template/conteudoviewedit.php",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/views/template/conteudoview.php",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/views/template/conteudoviewlook.php",
+		"/var/www/cebrac/assets/css/style-sis.css",
+		"/var/www/cebrac/application/sis-escola/modules/sisplan/views/template/adicionaConteudo.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/var/www/wp/wp-admin",
+			"",
+			"/var/www/cebrac/",
+			"/var/www/cebrac/assets",
+			"/var/www/igreja/application/,/var/www/cebrac/application/sis-escola/,/var/www/cebrac/application/sis-escola/modules/sisplan/",
+			"/var/www/igreja/application/,/var/www/cebrac/application/sis-escola/modules",
+			"/var/www/igreja/application/",
+			"/var/www/igreja/application/views/administrator/",
+			"/var/www/igreja/application/views/administrator/template",
+			"",
+			"/var/www/igreja/assets/plugin/ckeditor",
+			"",
+			"/var/www/planoModules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sobre",
+			"src",
+			"contato",
+			"small-shadow.png",
+			"src",
+			"());\n",
+			"log",
+			"index",
+			"images",
+			"src",
+			"application",
+			"hello",
+			"hellon",
+			"com_hello",
+			"BooksControllerBook",
+			"hello",
+			"com_hello",
+			"hello",
+			"HELLO",
+			"Hello",
+			"hello",
+			"clear",
+			"nivo-box",
+			"BROMO TEMPLATE CLEAN and MINIMALIST business template",
+			"Nossos",
+			"Corporate Premium Template",
+			"\nOur latest projects",
+			"Start",
+			"Welcom",
+			"TOP",
+			"fadeOption",
+			"blueFull",
+			"switcher_btn",
+			"top",
+			"hello",
+			"align-center-2x.png",
+			"%20?%3",
+			"%3C?",
+			"cont_execicio",
+			"id",
+			"selected",
+			"border:",
+			"menu-topo",
+			"name",
+			"edit.png",
+			"delete.png",
+			"edit.png",
+			"scaffolding/header.php",
+			"button",
+			"btnAction",
+			"button",
+			"variable",
+			"border",
+			"login",
+			"loggin",
+			"cad-cont",
+			"#userLogado",
+			"userLogado",
+			"li a",
+			"dropdown",
+			"#dropdown",
+			"public",
+			"#logo-sistema{",
+			"<div>",
+			"div",
+			"echo",
+			"border",
+			"//",
+			"thumb",
+			"base_url",
+			"	  	\n",
+			"MenuIDMenuBar1\n",
+			"	\n",
+			").'",
+			"$n = explode('.', $value[0]->nome);\n 	echo $n[0].'.jpg';",
+			";\">",
+			"Shape6",
+			"wb_Shape14",
+			"<?=base_url(); ?>assets/images/",
+			"src=\"ima",
+			"img",
+			"md5",
+			"());",
+			"Login :",
+			"cmdfotos",
+			"cmsbanner",
+			"excluir-user",
+			"#excluir-user",
+			"excluir-user",
+			"btn-excluir",
+			"descricao",
+			"Cat",
+			"nome",
+			"Nome",
+			"Senha",
+			"senha",
+			"user",
+			"User",
+			"1",
+			"{",
+			"(){\n",
+			"__construct",
+			"function",
+			"		\n",
+			"view tool_panel",
+			"CKFinder",
+			"Please visit the CKFinder web site to obtain a valid license.",
+			"CKEditorFuncNum",
+			"Type",
+			"This is the DEMO version",
+			"This is the DEMO version of CKFinder. Please visit the CKFinder web site to obtain a valid license.",
+			"system/application/js/ckeditor",
+			"		\n",
+			"The upload path does not appear to be valid.",
+			"cmsuser",
+			"sd",
+			"th",
+			"}\n",
+			"\n		",
+			"private"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Descrição dos Serviços",
+			"?>",
+			"<?",
+			"<?=",
+			"cont_exercicio",
+			"Fotos",
+			"Contact",
+			"assets/plugin/ckeditor",
+			"cmsbanner"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 154.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"autoloa",
+				"application/config/autoload.php"
+			],
+			[
+				"assets/style_boot",
+				"assets/css/style_boot.css"
+			],
+			[
+				"assets",
+				"assets/css/style.css"
+			],
+			[
+				"templates/",
+				"application/views/templates/contact.php"
+			],
+			[
+				"config",
+				"application/config/config.php"
+			],
+			[
+				"route",
+				"application/config/routes.php"
+			],
+			[
+				"config/auto",
+				"application/config/autoload.php"
+			],
+			[
+				"config/",
+				"netcom/config/routes.php"
+			],
+			[
+				"netcom",
+				"netcom/config/autoload.php"
+			],
+			[
+				"netcom/autol",
+				"netcom/config/autoload.php"
+			],
+			[
+				"administrator/components/com_books/contro",
+				"administrator/components/com_books/controller.php"
+			],
+			[
+				"administrator/compoents/com_books/config",
+				"administrator/components/com_books/config.xml"
+			],
+			[
+				"conteudo",
+				"application/sis-escola/modules/sisplan/views/template/conteudoviewadd.php"
+			],
+			[
+				"routes",
+				"application/sis-escola/config/routes.php"
+			],
+			[
+				"coordenaca",
+				"application/sis-escola/modules/coordenacao/models/coordenacaomodel.php"
+			],
+			[
+				"coodernaca",
+				"application/sis-escola/modules/coordenacao/controllers/coordenacao.php"
+			],
+			[
+				"coodenacao",
+				"application/sis-escola/modules/coordenacao/controllers/coordenacao.php"
+			],
+			[
+				"js",
+				"assets/js/jSystem.js"
+			],
+			[
+				"conteudomo",
+				"application/sis-escola/modules/sisplan/models/conteudomodel.php"
+			],
+			[
+				"assets/css/",
+				"assets/css/style-sis.css"
+			],
+			[
+				"conteudoview",
+				"application/sis-escola/modules/sisplan/views/template/conteudoviewadd.php"
+			],
+			[
+				"helpers/text",
+				"system/helpers/text_helper.php"
+			],
+			[
+				"aut",
+				"application/sis-escola/config/autoload.php"
+			],
+			[
+				"home",
+				"application/sis-escola/modules/home/controllers/home.php"
+			],
+			[
+				".css",
+				"assets/table-sorter/css/custom.css"
+			],
+			[
+				"auto",
+				"application/sis-escola/config/autoload.php"
+			],
+			[
+				"sca",
+				"application/sis-escola/controllers/scaffolding.php"
+			],
+			[
+				"style",
+				"assets/css/style-sis.css"
+			],
+			[
+				"sisplan/views/template/conteudo",
+				"application/sis-escola/modules/sisplan/views/template/adicionaConteudo.php"
+			],
+			[
+				"sisplan/models",
+				"application/sis-escola/modules/sisplan/models/sisplanmodel.php"
+			],
+			[
+				"sisplan/inde",
+				"application/sis-escola/modules/sisplan/views/index.php"
+			],
+			[
+				"sisplan/views",
+				"application/sis-escola/modules/sisplan/views/index.php"
+			],
+			[
+				"config/roue",
+				"application/sis-escola/config/routes.php"
+			],
+			[
+				"data",
+				"application/sis-escola/config/database.php"
+			],
+			[
+				"database",
+				"user_guide/database/examples.html"
+			],
+			[
+				"application/config",
+				"application/sis-escola/config/config.php"
+			],
+			[
+				"sisplan",
+				"application/sis-escola/modules/sisplan/controllers/sisplan.php"
+			],
+			[
+				"stylesys",
+				"assets/css/styleSystem.css"
+			],
+			[
+				"system",
+				"system/core/Model.php"
+			],
+			[
+				"sisplan/view",
+				"application/sis-escola/modules/sisplan/views/template/editarTurma.php"
+			],
+			[
+				"config/ro",
+				"application/sis-escola/config/routes.php"
+			],
+			[
+				"rout",
+				"system/core/Router.php"
+			],
+			[
+				"perfil",
+				"application/sis-escola/modules/sisplan/views/template/perfil.php"
+			],
+			[
+				"assets/css",
+				"assets/css/styleSystem.css"
+			],
+			[
+				"sisplan/conteudo",
+				"application/sis-escola/modules/sisplan/views/template/conteudo.php"
+			],
+			[
+				"administrator/",
+				"application/views/administrator/template/banner.php"
+			],
+			[
+				"cms",
+				"application/controllers/administrator/cmsbanner.php"
+			],
+			[
+				"add",
+				"application/views/administrator/template/addviewfotos.php"
+			],
+			[
+				"admnistrator/",
+				"application/views/administrator/template/home.php"
+			],
+			[
+				"contato",
+				"application/views/template/contato.php"
+			],
+			[
+				"contao",
+				"application/controllers/contato.php"
+			],
+			[
+				"controlle",
+				"application/controllers/index.php"
+			],
+			[
+				"index",
+				"application/controllers/index.php"
+			],
+			[
+				"rou",
+				"application/config/routes.php"
+			],
+			[
+				"cmsfotos",
+				"application/controllers/administrator/cmsfotos.php"
+			],
+			[
+				"menu",
+				"application/views/includes/menu.php"
+			],
+			[
+				"views/template/con",
+				"application/views/template/contato.php"
+			],
+			[
+				"autolo",
+				"application/config/autoload.php"
+			],
+			[
+				"cmsbanner",
+				"application/controllers/administrator/cmsbanner.php"
+			],
+			[
+				"assets/plugin/li",
+				"assets/plugin/lightbox/css/jquery.lightbox-0.5.css"
+			],
+			[
+				"cmspage",
+				"application/controllers/administrator/cmspage.php"
+			],
+			[
+				"editpage",
+				"application/views/administrator/template/editpage.php"
+			],
+			[
+				"administrator",
+				"application/views/administrator/template/edituser.php"
+			],
+			[
+				"templates",
+				"application/views/templates"
+			],
+			[
+				"index.php",
+				"application/views/index.php"
+			],
+			[
+				"administrator/e",
+				"application/views/administrator/template/editbanner.php"
+			],
+			[
+				"modeluser",
+				"application/models/administrator/usermodel.php"
+			],
+			[
+				"administrator/cms",
+				"application/controllers/administrator/cmsuser.php"
+			],
+			[
+				"confi",
+				"application/config/config.php"
+			],
+			[
+				"banner",
+				"application/controllers/administrator/cmsbanner.php"
+			],
+			[
+				"fotos",
+				"application/views/administrator/template/addviewfotos.php"
+			],
+			[
+				"assets/js",
+				"assets/js/action.js"
+			],
+			[
+				"application/libra",
+				"application/libraries/uploadcontrol.php"
+			],
+			[
+				"edit",
+				"application/views/administrator/template/editbanner.php"
+			],
+			[
+				"user.php",
+				"application/views/administrator/template/user.php"
+			],
+			[
+				"views/template",
+				"application/views/administrator/template/banner.php"
+			],
+			[
+				"cmsuser",
+				"application/controllers/administrator/cmsuser.php"
+			],
+			[
+				"assets/style",
+				"assets/plugin/tabela/style.css"
+			],
+			[
+				"application/index.php",
+				"application/views/administrator/index.php"
+			],
+			[
+				"application/controle",
+				"application/controllers/administrator/cmsuser.php"
+			],
+			[
+				"application/user",
+				"application/views/administrator/template/user.php"
+			],
+			[
+				"administrator/template",
+				"application/views/administrator/template/user.php"
+			],
+			[
+				"language",
+				"system/helpers/language_helper.php"
+			],
+			[
+				"system/upload",
+				"system/libraries/Upload.php"
+			],
+			[
+				"upload",
+				"user_guide/libraries/file_uploading.html"
+			],
+			[
+				"controller",
+				"application/controllers/administrator/cmsuser.php"
+			],
+			[
+				"plugin/",
+				"assets/plugin/tabela/library/jquery.tablesorter.min.js"
+			],
+			[
+				"j",
+				"assets/plugin/tabela/library/jquery.columnfilters.js"
+			],
+			[
+				"da",
+				"application/config/database.php"
+			],
+			[
+				"views/ad",
+				"application/views/administrator/template/user.php"
+			],
+			[
+				"controller/",
+				"application/controllers/administrator/cmsuser.php"
+			],
+			[
+				"models",
+				"application/models/administrator/usermodel.php"
+			],
+			[
+				"login",
+				"application/views/administrator/template/login.php"
+			],
+			[
+				"adm/",
+				"application/sis-escola/modules/adm/views/template/home.php"
+			],
+			[
+				"jquery",
+				"js/jquery.js"
+			],
+			[
+				"jquer",
+				"exemploInterface/jquery.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/testes/netcom/netcom.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}
