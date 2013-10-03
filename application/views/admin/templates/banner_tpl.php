@@ -4,7 +4,7 @@
 	<h4 class="titleBack"><center>Banners</center></h4>
 	<div class="row">
 		<div class="span12">
-			<?php if (count($listBanner) <= 3) {?>
+			<?php if (count($listBanner) <= 7) {?>
 			<a href="<?php echo base_url(); ?>admin/banner/addBanner/" rel="Tooltip" title="Adicionar Banners" class="add"> <img src="<?php echo base_url(); ?>assets/img/add.png" alt="add Banner"> </a>
 			<?php } ?>
 		</div>
