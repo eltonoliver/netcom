@@ -61,12 +61,8 @@
                 $i++;
              ?>
               <?php 
-
                  $thumb = explode('.', $imagem);
                  $thumb = $thumb[0]."_thumb.".$thumb[1];
-                 
-
-
 
 
                 ?>     
