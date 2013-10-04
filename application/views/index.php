@@ -11,7 +11,19 @@
 
 <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/blueBoxed.css" title="blueBoxed" media="screen">
 
+<style type="text/css">
 
+#slog{
+   font-size: 18px;
+   font-weight: bold;
+   float: right;
+   position: absolute;
+   margin-left: 265px;
+   margin-top: 100px;
+   color: #113559;
+}
+
+</style>
 
 
 
@@ -145,7 +157,7 @@
             <!-- start searchBar -->
             <div class="search">
                 <form class="searchForm" method="post" action="<?php echo base_url(); ?>home/busca/">
-                    <input class="searchInput" title="Search" type="text" value="Pesquisar no site..." name="busca">
+                    <input class="searchInput" title="Search" type="text" value="Pesquisar no site..." name="busca" style="background-color: #113559;">
                     <input class="searchBtn" name="action_results" value="Go" title="Go" type="submit">
                 </form>
             </div><!-- end searchBar -->
