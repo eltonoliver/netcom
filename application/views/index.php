@@ -25,7 +25,7 @@
 <div class="wrap">
             <div style="margin:0 auto;border: red 0px solid;width: 900px;">
                 <div class="logo" style="position: absolute;margin-top:25px;">
-                    <img src="<?php echo base_url(); ?>assets/images/logo.png" alt="" width="250px;">
+                 <a href="<?php echo base_url(); ?>">   <img src="<?php echo base_url(); ?>assets/images/logo.png" alt="" width="250px;"> </a>
 
                 </div><!-- end logo -->
                   <div id="slog">O Seu Distribuidor INTELBRAS em Manaus</div>
