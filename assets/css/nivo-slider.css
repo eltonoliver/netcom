@@ -79,7 +79,7 @@
 }
 .nivo-caption span{
 	background:#000;
-	padding: 7px 20px 7px 20px;
+	
 	opacity:0.75; /* Overridden by captionOpacity setting */
 }
 .nivo-caption a {
@@ -103,10 +103,15 @@
 }
 /* Control nav styles (e.g. 1,2,3...) */
 .nivo-controlNav a {
+	display: none;
 	position:relative;
 	z-index:9;
 	cursor:pointer;
 }
 .nivo-controlNav a.active {
 	font-weight:bold;
+}
+.nivo-controlNav{
+	display: none;
+	visibility: hidden;
 }
