@@ -252,7 +252,8 @@
                      ?></p><br>
                     <br>
                     <ul class="socialNav">
-                        <li style="margin-left:80px;"><a href="#" title="Facebook"><img src="<?php echo base_url(); ?>assets/images/facebook_icon.png" alt="Delicious"></a></li>
+                        <li style="margin-left:80px;"><a href="#" title="Facebook"><img src="<?php echo base_url(); ?>assets/images/facebook_icon.png" alt="Facebook"></a></li>
+                          <li style="margin-left:10px;"><a href="#" title="Twitter"><img src="<?php echo base_url(); ?>assets/images/twitter_icon.png" alt="Twitter"></a></li>
                      
 					</ul>
                 </div>
