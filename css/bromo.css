@@ -143,7 +143,7 @@ p{
 	height: 155px;
 }
 #headerSlider{
-	height: 480px;
+	height: 299px;
 }
 
 /*----------------------------------------------*/
@@ -364,11 +364,11 @@ p{
 
 #slider {
 	width: 900px;
-	height: 370px;
+	height: 299px;
 	margin: auto;
 	padding: 0;
 	clear:both;
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 	margin-top: -330px;
 	position: relative;
 }
@@ -562,7 +562,7 @@ p{
 
 .theme-default #sliderv {
     width:900px; /* Make sure your images are the same size */
-    height:360px; /* Make sure your images are the same size */
+    height:299px; /* Make sure your images are the same size */
 	background: url(../images/loading.gif) no-repeat 50% 50% #e3e3e3 ;
 	/*border: 7px solid rgba(199, 199, 199, 0.55);
 	border:               	1px solid rgb(140,140,140);
