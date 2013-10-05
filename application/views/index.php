@@ -8,9 +8,9 @@
 <!-- Style -->
 <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet" type="text/css">
 <link href="<?php echo base_url(); ?>assets/font/stylesheet.css" rel="stylesheet" type="text/css">
-<link href="<?php echo base_url(); ?>assets/css/bromoPanel.css" rel="stylesheet" type="text/css">
+
 <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/blueBoxed.css" title="blueBoxed" media="screen">
-<link rel="alternate stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/blueFull.css" title="blueFull" media="screen">
+
 
 
 
@@ -172,7 +172,7 @@
             ?>
             <div id="slider">      
                 <!-- start nivo slider -->
-                <div class="slider-wrapper theme-default">
+                <div class="slider-wrapper theme-default" >
                     <div id="sliderv" class="nivoSlider">
                         <?php  $banners = $this->db->get('banner')->result();  ?>
 
