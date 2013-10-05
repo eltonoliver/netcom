@@ -210,7 +210,7 @@ p{
 	display:block;
 	visibility:hidden;
 	padding: 7px;
-	opacity: 0.9;
+	
 	color: #666;
 	width:170px;
 	font: 14px/21px 'TitilliumText22LRegular', Arial, sans-serif;
@@ -255,7 +255,7 @@ p{
 	left: 170px;
 	top: -7px;
 	position: absolute;
-	opacity: 0.9;
+	
 }
 .main-menu ul ul li ul li a:hover,.main-menu ul ul ul li a:hover {
 	text-decoration:none!important;
