@@ -87,6 +87,7 @@ p.subtitle{
 .searchInput{
 	border: 1px solid white;
 	background: #c6c6c6;
+	color: white;
 }
 .blog-post h3 a:hover{
 	color: #7fb4cf;
@@ -112,7 +113,7 @@ p.subtitle{
 	background: #031835;
 }
 .footer-wrap{
-	background: #031835 url(../images/glow-bottom.png) no-repeat bottom center;
+	background: #031835;
 }
 .post-footer{
 	background: #031835 url(../images/bg-header.png) top repeat-x;
